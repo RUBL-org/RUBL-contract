@@ -1,0 +1,6 @@
+node_modules/
+build/
+.openzeppelin/dev*
+env.sh
+coverage/
+.idea/
