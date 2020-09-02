@@ -1,5 +1,5 @@
 {
-  "author": "GP7",
+  "author": "TMH digital AG",
   "license": "MIT",
   "scripts": {
     "compile": "scripts/compile.sh",
